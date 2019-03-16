@@ -1,0 +1,50 @@
+.ant-page-header-title-view-title {
+    font-size: 25px !important;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 20px;
+    margin-bottom: 15px;
+    width: 1024px;
+}
+.ant-list-item {
+    margin: 15px;
+}
+.ant-page-header-content-view {
+    border: 1px solid #e8e8e8;
+}
+.ant-page-header-content-view {
+    border: none;
+    max-width: 1024px;
+}
+
+.ant-list-item {
+    background: white;
+}
+
+.initechNode {
+    border: solid 1px #cccccc;
+    border-radius: 3px;
+    padding: 5px;
+    width: 170px;
+    height: 60px;
+    display: inline-block;
+    line-height: 42px;
+}
+
+.nodeGroupLineVerticalMiddle {
+    border-right: 2px solid #cccccc !important;
+}
+
+.nodeLineBorderTop {
+    border-top: 2px solid #cccccc !important;
+}
+
+.ant-table-tbody {
+    background-color: white;
+}
+
+.BackgroundVideo {
+    top: 125px !important;
+    height: 800px !important;
+}
+
+

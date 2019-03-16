@@ -3,9 +3,21 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "antd": "^3.15.0",
+    "google-maps-react": "^2.0.2",
     "react": "^16.8.4",
+    "react-background-video-player": "^1.1.6",
+    "react-bnb-gallery": "^1.1.5",
     "react-dom": "^16.8.4",
-    "react-scripts": "2.1.8"
+    "react-highlight-words": "^0.16.0",
+    "react-orgchart": "^1.0.5",
+    "react-redux": "^6.0.1",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "2.1.8",
+    "react-video-cover": "^1.2.2",
+    "redux": "^4.0.1",
+    "redux-actions": "^2.6.5",
+    "vertical-timeline-component-for-react": "^1.0.6"
   },
   "scripts": {
     "start": "react-scripts start",
